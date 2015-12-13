@@ -1,2 +1,4 @@
-# tugas-so
-Program untuk medeteksi jenis sistem operasi, browser, IP address, dan asal negara client
+# Tugas Sistem Operasi
+NIM		: 2014081049
+Nama	: Eka Putra
+Kelas	: TI B 2014
