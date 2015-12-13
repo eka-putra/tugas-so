@@ -1,4 +1,4 @@
 # Tugas Sistem Operasi
-NIM		: 2014081049
-Nama	: Eka Putra
-Kelas	: TI B 2014
+| NIM        | Nama      | Kelas     |
+| ---------- |:---------:| ---------:|
+| 2014081049 | Eka Putra | TI B 2014 |
